@@ -1,0 +1,2 @@
+# Chinese_entity_annotation
+Tkinter编写的简易实体标注软件

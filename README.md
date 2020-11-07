@@ -31,10 +31,10 @@ Tkinter编写的简易实体标注软件（目前仅支持Window系统）
 
 **界面展示：**
 
-![1604731038941](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1604731038941.png)
+![1604731038941](https://github.com/dhwgithub/Chinese_entity_annotation/blob/main/img/1604731038941.png)
 
 **操作页面：**
-![1604731322373](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1604731322373.png)
+![1604731322373](https://github.com/dhwgithub/Chinese_entity_annotation/blob/main/img/1604731322373.png)
 
 其中从坐到右分别是对应图片展示区、文本显示区（无法输入）、标签区（含标记进度）、文本列表区（第一行始终是当前文本名称）。
 

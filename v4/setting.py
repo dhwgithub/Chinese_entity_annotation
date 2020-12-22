@@ -42,16 +42,17 @@ labels_dict = {
     "总价": "goodsMoney",
 
     "小票总数量": "totalGoodsQty",
-    "小票总价": "totalMoney",
+    "小票最大总价": "maxTotalMoney",
+    "小票付款总价": "payTotalMoney",
     "总优惠金额": "totalDiscountMoney",
 
-    "小票日期+时间": "receiptTime",
-    "小票总数量和总价": "totalQM",
-    "商品编码和名称": "CodeAndName",
-    "商品名称+价格或数量": "NameAndNum",
-    "价格信息": "priceInfo"
+    # "小票日期+时间": "receiptTime",
+    # "小票总数量和总价": "totalQM",
+    # "商品编码和名称": "CodeAndName",
+    # "商品名称+价格或数量": "NameAndNum",
+    # "价格信息": "priceInfo"
 }
-SPE_NUM_LIST = [6, 12, 16]  # 需要分割的行号（从1开始），同上分割
+SPE_NUM_LIST = [6, 12]  # 需要分割的行号（从1开始），同上分割
 
 # 标签颜色
 label_color = ["blue", "green",
@@ -63,8 +64,9 @@ tag_vs_list = ["加油~", "坚持!!", "Fighting!", "记得保存", "继续~"]
 
 # 界面参数设置
 WIN_NAME = '实体标注小程序'
-WIN_WIDTH = 1370
-WIN_HEIGHT = 700
+# WIN_WIDTH = 1370
+# WIN_HEIGHT = 700
 
 # # 日志名称
 # LOG_FILE_NAME = 'history_info.txt'
+
